@@ -1,8 +1,15 @@
-#### python model 
+#### python model
 
-python 
+python
 
-常用模块学习：
+* [ ] 常用模块学习：
+  ---
+
+  |  |  |
+  | :--- | ---: |
+  |  |  |
+
+
 
 
 
